@@ -5,3 +5,4 @@
 ## Styleguide
 
   1. [CSS / SASS](https://github.com/itobuztech/styleguide/blob/master/ITOBUZ_CSS-SASS_STYLEGUIDE_rev1.md)
+  2. [JS styleguide](https://github.com/airbnb/javascript)
